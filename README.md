@@ -67,7 +67,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries, please contact [your_email@example.com].
+For any inquiries, please contact [hrithikyadav88@gmail.com].
 ```
 
 Replace `"your_api_key_here"` with your actual OpenWeatherMap API key and update the contact email with your own. This `README.md` should give users a clear understanding of how to use your `WeatherNow` app.
